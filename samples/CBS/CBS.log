@@ -1,0 +1,7 @@
+2026-09-25 10:00:00 Info CBS Session: 100_1 Package: Package_for_KB5000001 started
+2026-09-25 10:00:01 Error CBS Session: 100_1 Package: Package_for_KB5000001 transient staging failed HRESULT 0x800F081F
+2026-09-25 10:00:05 Info CBS Session: 100_1 session completed successfully
+2026-09-26 11:00:00 Info CBS Session: 101_1 Package: Package_for_KB5000002 started
+2026-09-26 11:00:03 Error CBS Session: 101_1 Package: Package_for_KB5000002 source files could not be found HRESULT 0x800F081F
+2026-09-26 11:00:04 Info CBS Session: 101_1 rollback initiated
+2026-09-26 11:00:05 Error CBS Session: 101_1 session complete failed 0x800F081F

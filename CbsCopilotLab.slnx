@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cbs.Mcp.Contracts/Cbs.Mcp.Contracts.csproj" />
+    <Project Path="src/Cbs.Mcp.Server/Cbs.Mcp.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Cbs.Mcp.Tests/Cbs.Mcp.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/Cbs.Mcp.SmokeClient/Cbs.Mcp.SmokeClient.csproj" />
+  </Folder>
+</Solution>

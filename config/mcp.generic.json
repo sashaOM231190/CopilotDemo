@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "cbs": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "E:\\copilot_mcp_skill_lab\\src\\Cbs.Mcp.Server\\bin\\Debug\\net10.0\\Cbs.Mcp.Server.dll"
+      ],
+      "cwd": "E:\\copilot_mcp_skill_lab",
+      "env": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
